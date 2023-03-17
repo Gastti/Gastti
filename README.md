@@ -12,11 +12,9 @@
 - 📄 Know about my experiences [en-proceso](en-proceso)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://twitter.com/gasttidev" target="blank">Twitter</a>
 <a href="https://linkedin.com/in/gastongutierrez96" target="blank">LinkedIn</a>
 <a href="https://instagram.com/gasttidev" target="blank">Instagram</a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 Javascript, Node.js with Express, React, HTML, CSS, MongoDB, MySQL, PostgreSQL, Sass, Tailwind, Bootstrap, Mocha & Chai, Jest, Vitest, Postman, Photoshop, Blender.
