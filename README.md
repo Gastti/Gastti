@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1>Hi 👋, I'm Gastti</h1>
+<h3>Full Stack Developer passionate about creating solutions through programming.</h3>
 
-<!--
-**Gastti/Gastti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- - 🔭 I’m currently working on [Foodery(Personal Project)](https://github.com/Gastti/app-foodery-server) -->
 
-Here are some ideas to get you started:
+- 👨‍💻 All of my projects are available at [en-proceso](en-proceso)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📝 I regularly write articles on  [en-proceso](en-proceso)
+
+- 📫 Contact me at **gasttidev@gmail.com**
+
+- 📄 Know about my experiences [en-proceso](en-proceso)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/gasttidev" target="blank">Twitter</a>
+<a href="https://linkedin.com/in/gastongutierrez96" target="blank">LinkedIn</a>
+<a href="https://instagram.com/gasttidev" target="blank">Instagram</a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+Javascript, Node.js with Express, React, HTML, CSS, MongoDB, MySQL, PostgreSQL, Sass, Tailwind, Bootstrap, Mocha & Chai, Jest, Vitest, Postman, Photoshop, Blender.
