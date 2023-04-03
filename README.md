@@ -3,13 +3,13 @@
 
 <!-- - 🔭 I’m currently working on [Foodery(Personal Project)](https://github.com/Gastti/app-foodery-server) -->
 
-- 👨‍💻 All of my projects are available at [en-proceso](en-proceso)
+<!-- - 👨‍💻 All of my projects are available at [en-proceso](en-proceso) -->
 
-- 📝 I regularly write articles on  [en-proceso](en-proceso)
+<!-- - 📝 I regularly write articles on  [en-proceso](en-proceso) -->
 
 - 📫 Contact me at **gasttidev@gmail.com**
 
-- 📄 Know about my experiences [en-proceso](en-proceso)
+<!-- - 📄 Know about my experiences [en-proceso](en-proceso) -->
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/gasttidev" target="blank">Twitter</a>
