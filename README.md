@@ -17,4 +17,4 @@
 <a href="https://instagram.com/gasttidev" target="blank">Instagram</a>
 
 <h3 align="left">Languages and Tools:</h3>
-Javascript, Node.js with Express, React, HTML, CSS, MongoDB, MySQL, PostgreSQL, Sass, Tailwind, Bootstrap, Mocha & Chai, Jest, Vitest, Postman, Photoshop, Blender.
+- Javascript, Node.js with Express, React, HTML, CSS, MongoDB, MySQL, PostgreSQL, Sass, Tailwind, Bootstrap, Mocha & Chai, Jest, Vitest, Postman, Photoshop, Blender.
