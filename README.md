@@ -1,16 +1,8 @@
 <h1>Hi 👋, I'm Gastti</h1>
 <h3>Full Stack Developer passionate about creating solutions through programming.</h3> 
-
-<!-- - 🔭 I’m currently working on [Foodery(Personal Project)](https://github.com/Gastti/app-foodery-server) -->
-
-<!-- - 👨‍💻 All of my projects are available at [en-proceso](en-proceso) -->
-
-<!-- - 📝 I regularly write articles on  [en-proceso](en-proceso) -->
-
+- 🔭 I'm currently working as a freelance creating 2d assets for videogames
 - 📫 Contact me at **gasttidev@gmail.com**
-- 📫 Visit my portfolio **https://portfolio-gastti.vercel.app/**
-
-<!-- - 📄 Know about my experiences [en-proceso](en-proceso) -->
+- 🚀 Visit my portfolio **https://portfolio-gastti.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/gasttidev" target="blank">Twitter</a>
