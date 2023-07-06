@@ -1,12 +1,12 @@
 ## Hi 👋 I'm Gastti 
 ### Full Stack Developer
 
+## About me
 - 🔭  I'm currently working as a freelance creating 2d assets for videogames
 - 📫 Contact me at infogastti@gmail.com
 - ✨ Visit my  [Portfolio]
 
 ## Technologies
-
 - Typescript, Javascript, Node.js, Express, React
 - MongoDB, MySQL, PostgreSQL
 - Sass, Tailwind, Bootstrap
