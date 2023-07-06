@@ -1,14 +1,18 @@
-<h1>Hi 👋, I'm Gastti</h1>
-<h3>Full Stack Developer passionate about creating solutions through programming.</h3> 
+## Hi 👋 I'm Gastti 
+### Full Stack Developer
 
--- 🔭 I'm currently working as a freelance creating 2d assets for videogames
--- 📫 Contact me at **gasttidev@gmail.com**
--- 🚀 Visit my portfolio **https://portfolio-gastti.vercel.app/**
+- 🔭  I'm currently working as a freelance creating 2d assets for videogames
+- 📫 Contact me at infogastti@gmail.com
+- ✨ Visit my  [Portfolio]
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/gasttidev" target="blank">Twitter</a>
-<a href="https://linkedin.com/in/gastongutierrez96" target="blank">LinkedIn</a>
-<a href="https://instagram.com/gasttidev" target="blank">Instagram</a>
+## Technologies
 
-<h3 align="left">Languages and Tools:</h3>
-- Typescript, Javascript, Node.js with Express, React, HTML, CSS, MongoDB, MySQL, PostgreSQL, Sass, Tailwind, Bootstrap, Mocha & Chai, Jest, Vitest, Postman, Photoshop, Blender.
+- Typescript, Javascript, Node.js, Express, React
+- MongoDB, MySQL, PostgreSQL
+- Sass, Tailwind, Bootstrap
+- Mocha & Chai, Jest, Vitest
+
+[Twitter]: <https://twitter.com/gasttidev>
+[Linkedin]: <https://linkedin.com/in/gastongutierrez96>
+[Instagram]: <https://instagram.com/gasttidev>
+[Portfolio]: <https://portfolio-gastti.vercel.app/>
